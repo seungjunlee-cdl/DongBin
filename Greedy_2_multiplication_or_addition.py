@@ -9,3 +9,6 @@ def solution(S):
             largest *= int(S[i+1])
 
     return largest
+
+# testcase1 = '02984'   return 576
+# testcase2 = '567'   return 210
