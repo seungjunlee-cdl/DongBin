@@ -15,3 +15,6 @@ def solution(S):
     sorted_str = "".join(sorted_str)
 
     return sorted_str
+
+# testcase1 = 'K1KA5CB7'   return 'ABCKK13'
+# testcase2 = 'AJKDLSI412K4JSJ9D'   return 'ADDIJJJKKLSS20'
