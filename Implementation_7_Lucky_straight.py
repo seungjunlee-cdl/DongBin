@@ -5,3 +5,6 @@ def solution(N):
         print("LUCKY")
     else:
         print("READY")
+
+# testcase1 = '123402'   return LUCKY        
+# testcase2 = '7755'   return READY
